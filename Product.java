@@ -17,9 +17,12 @@ public class Product{
 			
 	}
 
-	public String getname()
-	{
+	public String getname(){
 		return name;
+	}
+
+	public void setName(String name){
+		this.name = name;	
 	}
 	
 }
