@@ -21,5 +21,14 @@ public class Product{
 	{
 		return name;
 	}
+
+	public void setprice(int price)
+	{
+		this.price=price;
+	} 
+	public int getprice()
+	{
+		return price;
+	}
 	
 }
