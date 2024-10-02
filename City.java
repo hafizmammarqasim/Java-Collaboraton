@@ -1,6 +1,7 @@
 public class City{
 	private String name;
 	private int area;
+	int b;
 	
 	
 	public void setArea(int area)
@@ -12,5 +13,6 @@ public class City{
 	{
 		return area;
 	}
-
+	
+	
 }
