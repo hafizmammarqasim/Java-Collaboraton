@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Product{
 	private String name;
 	private int price;
@@ -11,12 +11,6 @@ public class Product{
 		this.quantity = quantity; 
 	} 
 
-=======
-public class Product
-{
-String name="Sabun";
-int price;
-int quantity;
 
 	Product()
 	{
@@ -28,6 +22,4 @@ int quantity;
 		return name;
 	}
 	
-		
->>>>>>> ccfeb365b4e05d79d071273779af010cd52448ab
 }
