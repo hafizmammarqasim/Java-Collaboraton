@@ -14,4 +14,15 @@ public class Person{
 	public String getName(){
 		return name;
 	}
+
+	public void setage(int age)
+	{
+		this.age=age;	
+	}
+
+	int getage()
+	{
+	return age;
+	}
+
 }
