@@ -17,8 +17,7 @@ public class Product{
 			
 	}
 
-	public String getname()
-	{
+	public String getname(){
 		return name;
 	}
 
@@ -29,6 +28,10 @@ public class Product{
 	public int getprice()
 	{
 		return price;
+
+	public void setName(String name){
+		this.name = name;	
+
 	}
 	
 }
