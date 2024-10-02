@@ -10,5 +10,15 @@ public class City{
 	public String getName(){
 		return name;
 	}
+	
+	public void setArea(int area)
+	{
+		this.area=area;	
+	}
+	
+	public void getArea()
+	{
+		return area;
+	}
 
 }
